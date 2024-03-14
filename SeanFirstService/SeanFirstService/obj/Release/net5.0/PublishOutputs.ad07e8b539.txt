@@ -1,0 +1,11 @@
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\SeanFirstService.exe
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\SeanFirstService.dll
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\SeanFirstService.deps.json
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\SeanFirstService.runtimeconfig.json
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\SeanFirstService.pdb
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\zzxproject\SeanFirstService\SeanFirstService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
